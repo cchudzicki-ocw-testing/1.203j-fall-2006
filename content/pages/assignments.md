@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the six assignments from the class, and solution
+  files.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -54,7 +56,7 @@ Problem Set 3 ({{% resource_link d17eb2c0-cc4d-e23e-ef06-fbe11262f9e1 "PDF" %}})
 Problem Set 4 ({{% resource_link 2887eb20-a7ae-f956-3076-195ba83117a2 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 548fae3f-0b5e-b3ca-9992-9edb75c28949 "PDF" %}})
+({{% resource_link 548fae3f-0b5e-b3ca-9992-9edb75c28949 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,7 +65,7 @@ Problem Set 4 ({{% resource_link 2887eb20-a7ae-f956-3076-195ba83117a2 "PDF" %}})
 Problem Set 5 ({{% resource_link 7ca14818-7563-fb30-92e3-9b095db6f94c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link da6160a2-c672-1b33-180f-64d9402384ca "PDF" %}})
+({{% resource_link da6160a2-c672-1b33-180f-64d9402384ca "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -72,7 +74,7 @@ Problem Set 5 ({{% resource_link 7ca14818-7563-fb30-92e3-9b095db6f94c "PDF" %}})
 Problem Set 6 ({{% resource_link 40d16eaf-7ccb-c09e-3e32-0ae6b7ce0690 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link fda6c079-0135-c8d9-227d-cb1effe9b148 "PDF" %}})
+({{% resource_link fda6c079-0135-c8d9-227d-cb1effe9b148 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

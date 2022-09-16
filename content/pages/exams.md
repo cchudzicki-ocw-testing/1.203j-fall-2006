@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides quizzes from current and past years as a reference.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
